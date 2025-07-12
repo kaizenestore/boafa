@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Bank of America Helpline</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 2rem; max-width: 600px; margin: auto; }
+    h1 { color: #003366; }
+    p, a { font-size: 1.1rem; color: #00509e; }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.8rem 1.2rem;
+      background: #0066cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    a.button:hover { background: #004c99; }
+  </style>
+</head>
+<body>
+  <h1>Bank of America Support Helpline</h1>
+  <p>Call our support team. We are here to help:</p>
+  <p><strong>1‑833‑408‑7277</strong></p>
+  <a href="tel:18334087277" class="button">Call Now</a>
+</body>
+</html>
